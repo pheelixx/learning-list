@@ -1,12 +1,7 @@
-# list
 ## List of media resources for learning
-
 ===
+* [Back-End](backend/)
 
-# Back-End
-[Back-End](backend/)
+* [Front-End](frontend/)
 
-# Front-End
-[Front-End](frontend/)
-
-# Helpers & Cheatsheets
+* Helpers & Cheatsheets
