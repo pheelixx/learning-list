@@ -4,4 +4,4 @@
 
 * [Front-End](src/frontend/)
 
-* Helpers & Cheatsheets
+* [Various](src/various/)

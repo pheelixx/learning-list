@@ -4,4 +4,4 @@
 
 * [Front-End](frontend/)
 
-* Helpers & Cheatsheets
+* [Various](various/)
