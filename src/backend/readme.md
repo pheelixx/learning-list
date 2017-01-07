@@ -1,5 +1,3 @@
-# Back-end
-
 ## PHP
 Непосредственное обучение
 
@@ -11,9 +9,12 @@
 * Сайт [en]: [PHP: The Right Way](http://www.phptherightway.com)
 * Сайт: [PHP: Правильный путь](http://getjump.me/ru-php-the-right-way/)
 * Издание: [PHP-Дайджест от компании Zfort Group](https://habrahabr.ru/search/?target_type=posts&q=php%20%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82&order_by=date)
+* Стиль кодирования [en]: [PHP Standards Recommendations](http://www.php-fig.org/psr/)
+* Стиль кодирования: [Русский перевод PHP-стандартов FIG](https://github.com/samdark/fig-standards-ru/blob/master/accepted/ru/index.md)
 
 Полезные статьи и лучшие практики
 
+* Статья [en]: [Awesome PHP | A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
 * Статья: [Шпаргалка по SOLID-принципам с примерами на PHP](https://habrahabr.ru/post/208442/)
 * Видео-уроки: [Принципы проектирования классов SOLID в PHP](http://simple-training.com/category/solid-in-php/)
 * Сайт: [Оптимизация и масштабирование Web приложений](http://ruhighload.com/)
