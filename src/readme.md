@@ -4,9 +4,9 @@
 ===
 
 # Back-End
-[Back-End](src/backend/)
+[Back-End](backend/)
 
 # Front-End
-[Front-End](src/frontend/)
+[Front-End](frontend/)
 
 # Helpers & Cheatsheets
