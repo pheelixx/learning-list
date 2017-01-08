@@ -11,9 +11,3 @@
 * Ссылка [en]: [Open Source Society University](https://github.com/open-source-society/computer-science)
 * Ссылка [en]: [Google Interview University (multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer)](https://github.com/jwasham/google-interview-university)
 * Ссылка [en]: [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-## JavaScript
-
-## SQL
-
-## Autotesting

@@ -1,5 +1,5 @@
 ## PHP | Источники
-Непосредственное обучение
+Непосредственное обучение  
 
 * Книга: [Изучаем PHP и MySQL](https://www.livelib.ru/book/1000460782-izuchaem-php-i-mysql-linn-bejli-majkl-morrison)
 * Курсы: [PHP-программист | hexlet.io](https://ru.hexlet.io/professions/php)
@@ -11,19 +11,19 @@
 * Сайт: [PHP: Правильный путь](http://getjump.me/ru-php-the-right-way/)
 * Издание: [PHP-Дайджест от компании Zfort Group](https://habrahabr.ru/search/?target_type=posts&q=php%20%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82&order_by=date)
 
-Стиль кодирования
+Стиль кодирования  
 
 * [PHP Standards Recommendations](http://www.php-fig.org/psr/)
 * [Русский перевод PHP-стандартов FIG](https://github.com/samdark/fig-standards-ru/blob/master/accepted/ru/index.md)
 
-Полезные статьи и лучшие практики
+Полезные статьи и лучшие практики  
 
 * Статья [en]: [Awesome PHP | A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
 * Статья: [Шпаргалка по SOLID-принципам с примерами на PHP](https://habrahabr.ru/post/208442/)
 * Видео-уроки: [Принципы проектирования классов SOLID в PHP](http://simple-training.com/category/solid-in-php/)
 * Сайт [en]: [PHP Best Practices](https://phpbestpractices.org/)
 
-Хабы, фреймворки, расширения
+Хабы, фреймворки, расширения  
 
 * Хаб: [Facebook Open Source | Backend](https://code.facebook.com/projects/backend/)
 * Хаб: [Badoo_tech | OpenSource](https://tech.badoo.com/ru/open-source/)
