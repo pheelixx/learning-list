@@ -28,6 +28,7 @@ PHP | Источники
 
 Хабы, фреймворки, расширения, инструменты  
 
+* Инструмент: [3v4l.org | run code in 150+ php & hhvm versions](https://3v4l.org/)
 * Хаб: [Facebook Open Source | Backend](https://code.facebook.com/projects/backend/)
 * Хаб: [Badoo_tech | OpenSource](https://tech.badoo.com/ru/open-source/)
 * Фреймворк: [Laravel Framework](https://laravel.com/)
