@@ -5,12 +5,16 @@
 * Курсы: [PHP-программист | hexlet.io](https://ru.hexlet.io/professions/php)
 * Книга, pdf: [PHP. Рецепты программирования](https://www.livelib.ru/book/1001247893-php-retsepty-programmirovaniya-devid-sklyar-adam-trahtenberg)
 * Книга: [PHP. Объекты, шаблоны и методики программирования](https://www.livelib.ru/book/1001403943-php-obekty-shablony-i-metodiki-programmirovaniya-met-zandstra)
+* Книга: [Современный PHP. Новые возможности и передовой опыт](https://www.livelib.ru/book/1001537963-sovremennyj-php-novye-vozmozhnosti-i-peredovoj-opyt-dzhosh-lokhart)
 * Книга, pdf: [Совершенный код. Мастер-класс](https://www.livelib.ru/book/1001122709-sovershennyj-kod-masterklass-stiv-makkonnell)
 * Сайт [en]: [PHP: The Right Way](http://www.phptherightway.com)
 * Сайт: [PHP: Правильный путь](http://getjump.me/ru-php-the-right-way/)
 * Издание: [PHP-Дайджест от компании Zfort Group](https://habrahabr.ru/search/?target_type=posts&q=php%20%D0%B4%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82&order_by=date)
-* Стиль кодирования [en]: [PHP Standards Recommendations](http://www.php-fig.org/psr/)
-* Стиль кодирования: [Русский перевод PHP-стандартов FIG](https://github.com/samdark/fig-standards-ru/blob/master/accepted/ru/index.md)
+
+Стиль кодирования
+
+* [PHP Standards Recommendations](http://www.php-fig.org/psr/)
+* [Русский перевод PHP-стандартов FIG](https://github.com/samdark/fig-standards-ru/blob/master/accepted/ru/index.md)
 
 Полезные статьи и лучшие практики
 
@@ -34,7 +38,3 @@
 * Хаб: [The League of Extraordinary Packages](https://thephpleague.com/)
 * Расширение: [Plugin: Php Inspections (EA Extended) for IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/7622-php-inspections-ea-extended-)
 
-## JavaScript
-
-
-## Autotesting
