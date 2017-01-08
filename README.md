@@ -17,11 +17,11 @@
 
 * [Highload | Источники про высокие нагрузки](HIGHLOAD.md)
 
-* [JavaScript | Источники](JAVASCRIPT.md)
+* [JavaScript | Источники о языке](JAVASCRIPT.md)
 
 * [Markup | Источники о языках разметки](MARKUP.md)
 
-* [PHP | Источники](PHP.md)
+* [PHP | Источники о языке](PHP.md)
 
 * [Testing | Источники про тестирование программных систем](TESTING.md)
 
