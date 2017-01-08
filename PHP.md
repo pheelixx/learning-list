@@ -1,4 +1,5 @@
-## PHP | Источники
+PHP | Источники
+---------------
 Непосредственное обучение  
 
 * Книга: [Изучаем PHP и MySQL](https://www.livelib.ru/book/1000460782-izuchaem-php-i-mysql-linn-bejli-majkl-morrison)
