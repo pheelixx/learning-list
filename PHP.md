@@ -23,8 +23,10 @@ PHP | Источники
 * Статья: [Шпаргалка по SOLID-принципам с примерами на PHP](https://habrahabr.ru/post/208442/)
 * Видео-уроки: [Принципы проектирования классов SOLID в PHP](http://simple-training.com/category/solid-in-php/)
 * Сайт [en]: [PHP Best Practices](https://phpbestpractices.org/)
+* Документация [en]: [HHVM Documentation](https://docs.hhvm.com/hhvm/)
+* Документация [en]: [Hack Documentation](https://docs.hhvm.com/hack/)
 
-Хабы, фреймворки, расширения  
+Хабы, фреймворки, расширения, инструменты  
 
 * Хаб: [Facebook Open Source | Backend](https://code.facebook.com/projects/backend/)
 * Хаб: [Badoo_tech | OpenSource](https://tech.badoo.com/ru/open-source/)
@@ -34,4 +36,5 @@ PHP | Источники
 * Хаб: [Packalyst: is a directory of Packages for your Laravel projects](http://packalyst.com/)
 * Хаб: [The League of Extraordinary Packages](https://thephpleague.com/)
 * Расширение: [Plugin: Php Inspections (EA Extended) for IntelliJ IDEA](https://plugins.jetbrains.com/idea/plugin/7622-php-inspections-ea-extended-)
-
+* Инструмент (виртуальная машина): [HHVM | virtual machine designed for executing programs written in Hack and PHP](http://hhvm.com/)
+* Инструмент (диалект языка): [Hack | programming language for HHVM](http://hacklang.org/)
