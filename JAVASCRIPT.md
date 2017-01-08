@@ -1,4 +1,4 @@
-## JavaScript
+## JavaScript | Источники
 Непосредственное обучение
 
 * Книга: [JavaScript. Подробное руководство (шестое издание)](https://www.livelib.ru/book/1000607178-javascript-podrobnoe-rukovodstvo-devid-flenagan)

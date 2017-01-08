@@ -1,4 +1,4 @@
-## Databases
+## Databases | Источники о системах баз данных
 Ресурсы, книги, статьи, лучшие практики
 
 * Книга: [Введение в системы баз данных](https://www.livelib.ru/book/1000107395-vvedenie-v-sistemy-baz-dannyh-k-dzh-dejt)

@@ -1,4 +1,4 @@
-## PHP
+## PHP | Источники
 Непосредственное обучение
 
 * Книга: [Изучаем PHP и MySQL](https://www.livelib.ru/book/1000460782-izuchaem-php-i-mysql-linn-bejli-majkl-morrison)
@@ -21,10 +21,6 @@
 * Статья [en]: [Awesome PHP | A curated list of amazingly awesome PHP libraries, resources and shiny things](https://github.com/ziadoz/awesome-php)
 * Статья: [Шпаргалка по SOLID-принципам с примерами на PHP](https://habrahabr.ru/post/208442/)
 * Видео-уроки: [Принципы проектирования классов SOLID в PHP](http://simple-training.com/category/solid-in-php/)
-* Сайт: [Оптимизация и масштабирование Web приложений](http://ruhighload.com/)
-* Сайт: [Highload Junior](http://junior.highload.ru/)
-* Сайт: [Продуманная оптимизация](http://optimization.guide/)
-* Сайт: [Архитектура высоконагруженных систем](https://www.insight-it.ru/highload/)
 * Сайт [en]: [PHP Best Practices](https://phpbestpractices.org/)
 
 Хабы, фреймворки, расширения
